@@ -118,5 +118,11 @@ export default [
         animeName:"Youkoso Japari Park",
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/37980/Youkoso_Japari_Park"
+    },
+	{
+        animeEmoji:"👣😸‍👘👩",
+        animeName:"Mahouka Koukou no Rettousei: Raihousha-hen",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40497/Mahouka_Koukou_no_Rettousei__Raihousha-hen"
     }
 ]
