@@ -106,5 +106,11 @@ export default [
         animeName:"Pokemon XY",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+	{
+        animeEmoji:"👣😸👘👩‍",
+        animeName:"Jujutsu Kaisen (TV)",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
     }
 ]
