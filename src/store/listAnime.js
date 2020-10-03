@@ -112,5 +112,11 @@ export default [
         animeName:"Jujutsu Kaisen (TV)",
         animeYear:2020,
         animeLink:"https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
+    },
+	{
+        animeEmoji:"👣😸‍",
+        animeName:"Youkoso Japari Park",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/37980/Youkoso_Japari_Park"
     }
 ]
